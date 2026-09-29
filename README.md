@@ -85,4 +85,3 @@ sudo snap run linubot
 
 ---
 
-Now that the software and code are safely backed up and documented on GitHub, we can dive back into diagnosing the physical hardware. Do you want to start tracing the power lines to the L293D chip, or test the DC motors directly against the battery?
